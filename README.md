@@ -1,4 +1,4 @@
-# Ucb_Stat154_Project
+# Ucb_Stat154_Project2
 This is an interesting project about clouds exploration in Arctic finished by **Yang Xiang** and **Zhihua Zhang**. During finishing this project, we refer to many resources such as R document [_trainModelList_](http://topepo.github.io/caret/train-models-by-tag.html#Support_Vector_Machines), some great r blogs like [_Evaluating Logistic Regression Models_](https://www.r-bloggers.com/evaluating-logistic-regression-models/) and [_SVM Wikipeida_](https://en.wikipedia.org/wiki/Support-vector_machine) for help.
 
 To proceed our project, the whole work is divided into two main parts:
